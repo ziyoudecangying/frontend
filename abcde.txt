@@ -2,3 +2,4 @@ aaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbb
 cccccccccccccccccccffffxxx
 serverupdate
+localupdate
